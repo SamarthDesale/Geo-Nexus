@@ -1,0 +1,9 @@
+{
+  "weights_s2": "/kaggle/input/datasets/sumit07125/ssl4eo-weights/resnet18_s2c_moco.pth",
+  "weights_s1": "/kaggle/input/datasets/sumit07125/ssl4eo-weights/resnet18_s1_bigearthnet.pth",
+  "mh_pune": "/kaggle/input/datasets/sumit07125/geonexus-mh-v3/pune_train.npy",
+  "mh_satara": "/kaggle/input/datasets/sumit07125/geonexus-mh-v3/satara_train.npy",
+  "mh_stats": "/kaggle/input/datasets/sumit07125/geonexus-mh-v3/norm_stats_trainonly.json",
+  "oscd_train": "/kaggle/input/datasets/sumit07125/oscd-onera-v1/oscd_train.npy",
+  "oscd_val": "/kaggle/input/datasets/sumit07125/oscd-onera-v1/oscd_val.npy"
+}

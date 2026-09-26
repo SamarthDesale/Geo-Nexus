@@ -1,0 +1,15 @@
+{
+  "protocol": "P-FS (Re-Weighted Few-Shot Gated Multi-Modal)",
+  "optimal_threshold": 0.08,
+  "metrics": {
+    "F1": 0.40028417110443115,
+    "F1_CI95_lo": 0.3328029215335846,
+    "F1_CI95_hi": 0.4582373797893524,
+    "IoU": 0.2502220571041107,
+    "AP": 0.6141873055579797,
+    "Precision": 0.6397820711135864,
+    "Recall": 0.2912549376487732,
+    "Kappa": 0.04496073834088887
+  },
+  "deliverable_image": "/kaggle/working/geonexus_reweighted_step6_maps.png"
+}
